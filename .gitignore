@@ -1,0 +1,7 @@
+# Chaves de acesso nunca vão para o Git
+*.pem
+*.ppk
+
+# Arquivos do sistema e de editores
+.DS_Store
+*.swp
